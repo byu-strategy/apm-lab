@@ -26,7 +26,6 @@ students/                    # Student-facing content
   01-syllabus.qmd            # Grading, policies, BYU boilerplate
   02-getting-started.qmd     # Onboarding, expectations, first week checklist
   03-weekly-updates.qmd      # Weekly email format, examples, deadlines
-  04-pm-skills.qmd           # Product management skills and resources
 
 partners/                    # Company partner-facing content
   01-program-overview.qmd    # Structure, hours, credit, timeline

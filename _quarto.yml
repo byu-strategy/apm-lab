@@ -16,7 +16,6 @@ book:
         - students/01-syllabus.qmd
         - students/02-getting-started.qmd
         - students/03-weekly-updates.qmd
-        - students/04-pm-skills.qmd
     - part: For Company Partners
       chapters:
         - partners/01-program-overview.qmd

@@ -21,7 +21,8 @@ Get started with your APM internship:
 - [Syllabus](students/01-syllabus.qmd) — Grading, policies, and course information
 - [Getting Started](students/02-getting-started.qmd) — Onboarding checklist and expectations
 - [Weekly Updates](students/03-weekly-updates.qmd) — How to write your end-of-week progress emails
-- [PM Skills](students/04-pm-skills.qmd) — Core product management skills and resources
+
+Students in this program typically complete [STRAT 412 – Strategy Prototyping](https://byu-strategy.github.io/strategy-prototyping/) to build foundational product management skills before their internship.
 
 ## I'm a Company Partner
 

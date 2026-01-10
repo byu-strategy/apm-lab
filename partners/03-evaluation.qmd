@@ -12,12 +12,11 @@ At the conclusion of the internship, mentors/managers complete a brief performan
 
 The feedback survey asks you to evaluate your intern on:
 
-- Quality of work delivered
-- Communication and professionalism
-- Initiative and problem-solving
-- Reliability and follow-through
-- Growth and learning throughout the term
-- Overall performance
+- **Timeliness** — Punctuality and meeting deadlines
+- **Communication** — Effectiveness in verbal and written communications
+- **High Agency** — Taking initiative, solving problems proactively, working independently
+- **Technical Competency** — Developing knowledge and skills to complete work effectively
+- **Contribution** — Consistently delivering high-quality work output
 
 ## Sharing Feedback
 

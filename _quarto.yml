@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - images
+
+book:
+  title: "STRAT 477R – Associate Product Manager Lab"
+  author: "Scott Murff"
+  date: "1/7/2026"
+  favicon: images/favicon.svg
+  chapters:
+    - index.qmd
+    - part: For Students
+      chapters:
+        - students/01-syllabus.qmd
+        - students/02-getting-started.qmd
+        - students/03-weekly-updates.qmd
+        - students/04-pm-skills.qmd
+    - part: For Company Partners
+      chapters:
+        - partners/01-program-overview.qmd
+        - partners/02-working-with-interns.qmd
+        - partners/03-evaluation.qmd
+        - partners/04-faq.qmd
+
+format:
+  html:
+    include-in-header: _header.html
+    include-after-body: _footer.html
+    theme: cosmo
+    link-external-icon: false
+    link-external-newwindow: false
+    css: styles.css
+    markdown: default
+    toc-title: On this page
+
+number-sections: false

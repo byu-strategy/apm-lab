@@ -1,0 +1,75 @@
+# Product Management Skills
+
+This page provides foundational resources for the core skills you'll develop during your APM internship.
+
+## Product Discovery
+
+Product discovery is the process of understanding customer needs and validating solutions before building.
+
+### Key Activities
+- Customer interviews
+- Problem framing
+- Opportunity assessment
+- Solution validation
+
+### Resources
+- *Continuous Discovery Habits* by Teresa Torres
+- *The Mom Test* by Rob Fitzpatrick
+
+## Feature Definition & Prioritization
+
+Turning insights into clear, actionable product requirements.
+
+### Key Activities
+- Writing user stories
+- Defining acceptance criteria
+- Prioritization frameworks (RICE, MoSCoW, etc.)
+- Creating product requirements documents (PRDs)
+
+### User Story Format
+```
+As a [type of user],
+I want [goal/desire],
+so that [benefit/value].
+```
+
+## Prototyping & Experimentation
+
+Testing ideas quickly before committing to full development.
+
+### Key Activities
+- Low-fidelity wireframes
+- Clickable prototypes
+- A/B testing
+- MVP definition
+
+### Tools to Explore
+- Figma (design & prototyping)
+- Miro (whiteboarding)
+- Notion (documentation)
+
+## Analytics & Insights
+
+Using data to inform product decisions.
+
+### Key Activities
+- Defining success metrics
+- Analyzing user behavior
+- Creating dashboards
+- Presenting findings
+
+### Common Metrics
+- Activation rate
+- Retention/churn
+- Feature adoption
+- Task completion rate
+
+## Communication & Stakeholder Management
+
+Product managers spend significant time communicating across teams.
+
+### Key Skills
+- Running effective meetings
+- Writing clear documentation
+- Presenting to stakeholders
+- Managing competing priorities

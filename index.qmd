@@ -1,0 +1,55 @@
+# Program Overview
+
+The BYU Associate Product Manager (APM) Internships are for-credit, apprenticeship-style internships designed for high-performing undergraduate students majoring in Strategic Management at Brigham Young University.
+
+Students work on real product and product-adjacent initiatives at company partners while earning academic credit toward their degree.
+
+## Program At a Glance
+
+| | |
+|---|---|
+| **Duration** | 4 months |
+| **Period** | January 7 – April 15, 2026 |
+| **Hours** | 10-20 hours per week |
+| **Credit** | 3.0-6.0 credit hours |
+| **Location** | In-person or remote |
+
+## I'm a Student
+
+Get started with your APM internship:
+
+- [Syllabus](students/01-syllabus.qmd) — Grading, policies, and course information
+- [Getting Started](students/02-getting-started.qmd) — Onboarding checklist and expectations
+- [Weekly Updates](students/03-weekly-updates.qmd) — How to write your end-of-week progress emails
+- [PM Skills](students/04-pm-skills.qmd) — Core product management skills and resources
+
+## I'm a Company Partner
+
+Interested in hosting an APM intern? [**Request an Intern**](https://docs.google.com/forms/d/e/1FAIpQLSdBkPGjYG-r-lFm8OFNOX_5ObOlJk23fbLxHwEotaW6vINzDg/viewform?usp=header)
+
+Information for companies hosting APM interns:
+
+- [Program Overview](partners/01-program-overview.qmd) — Structure, hours, credit, and timeline
+- [Working with Interns](partners/02-working-with-interns.qmd) — Setting goals, mentoring, and check-ins
+- [Evaluation](partners/03-evaluation.qmd) — End-of-term feedback process
+- [FAQ](partners/04-faq.qmd) — Equipment, HR, compensation, and more
+
+## Key Dates
+
+| Milestone | Date |
+|-----------|------|
+| Internship Begins | January 7, 2026 |
+| Weekly Updates Due | Saturday by 11:59 PM |
+| Internship Ends | April 15, 2026 |
+| Mentor Feedback Due | April 15, 2026 |
+| Video Reflection Due | April 22, 2026 |
+
+## Contact
+
+**Scott Murff**
+
+Program Director, Strategic Management
+
+Brigham Young University
+
+scott.murff@byu.edu

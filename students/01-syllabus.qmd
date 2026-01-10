@@ -1,0 +1,178 @@
+---
+title: "Syllabus"
+author: "Scott Murff"
+date: "1/6/2026"
+format:
+  html: default
+  pdf: default
+---
+
+# Syllabus
+
+*WINTER 2026*
+
+|                           |                            |
+|---------------------------|----------------------------|
+| **Instructor**            | Scott Murff                |
+| **Office Hours**          | 9:30–11:50 AM              |
+| **Office Hours Location** | 284 TNRB                   |
+| **LMS**                   | LearningSuite              |
+
+## Grading
+
+Grades are based on weekly update emails, end-of-semester mentor feedback, a video reflection, and an optional extra credit survey.
+
+### Grade Components (320 points possible)
+
+| Component | Points | Weight |
+|-----------|--------|--------|
+| Weekly Update Emails | 140 pts | 44% |
+| Mentor Feedback | 140 pts | 44% |
+| Video Reflection | 40 pts | 12% |
+| **Base Total** | **320 pts** | 100% |
+| Extra Credit (Student Ratings Survey) | 10 pts | +3% |
+
+### Weekly Emails (140 points)
+
+14 emails × 10 points each
+
+| Status | Points |
+|--------|--------|
+| On time (Saturday by 11:59 PM) | 10 pts |
+| Late (by Monday 12:00 PM noon) | 5 pts |
+| After Monday noon | 0 pts |
+
+See [Weekly Updates](03-weekly-updates.qmd) for format and expectations.
+
+### Mentor Feedback (140 points)
+
+At the end of the internship, your mentor will evaluate you on 5 dimensions using a 1-7 scale. Each score is multiplied by 4.
+
+| Category | Max Points |
+|----------|------------|
+| Timeliness | 28 |
+| Communication | 28 |
+| Agency | 28 |
+| Technical Competency | 28 |
+| Contribution | 28 |
+| **Total** | **140** |
+
+| Mentor Score (1-7) | Points |
+|--------------------|--------|
+| 7 | 28 |
+| 6 | 24 |
+| 5 | 20 |
+| 4 | 16 |
+| 3 | 12 |
+| 2 | 8 |
+| 1 | 4 |
+
+### Video Reflection (40 points)
+
+After receiving your mentor's feedback, you will record a 2-5 minute video reflection. This is your opportunity to demonstrate self-awareness, engage thoughtfully with feedback, and show a growth mindset.
+
+**Due Date:** April 22, 2026
+
+**Submission:** Upload to YouTube (unlisted) or Loom and submit the link via Learning Suite.
+
+**Prompt:** Address the following in your video:
+
+1. **Strongest area:** Which category (Timeliness, Communication, Agency, Technical Competency, or Contribution) best reflects your strengths this semester? Give an example.
+
+2. **Growth area:** Which category needs the most work? What got in the way?
+
+3. **Mentor's feedback:** React to one specific thing your mentor wrote in their comments or suggestions. Do you agree? What will you do with it?
+
+4. **Next time:** If you could restart this internship knowing what you know now, what would you do differently?
+
+Keep it conversational—I'm looking for honest self-assessment, not polish.
+
+**Rubric:**
+
+| Criteria | Excellent (10) | Good (7) | Adequate (4) | Weak (0-2) |
+|----------|----------------|----------|--------------|------------|
+| **Self-awareness** | Accurately owns strengths and growth areas | Mostly accurate, somewhat surface | Vague or generic | Defensive or no insight |
+| **Engages feedback** | References specific mentor comments | Acknowledges feedback generally | Mentions feedback in passing | Ignores or dismisses |
+| **Growth mindset** | Concrete plan for improvement | General intentions | Minimal forward-looking | No reflection on change |
+| **Clarity** | Organized, right length, professional | Minor issues | Rambling or too brief | Unprepared or inappropriate |
+
+### Extra Credit (10 points)
+
+Complete the end-of-semester student ratings survey to earn 10 extra credit points.
+
+### Grading Scale
+
+| Grade | % | Points (of 320) |
+|-------|---|-----------------|
+| A | 93–100% | 298–320 |
+| A- | 90–92% | 288–297 |
+| B+ | 87–89% | 278–287 |
+| B | 83–86% | 266–277 |
+| B- | 80–82% | 256–265 |
+| C+ | 77–79% | 246–255 |
+| C | 73–76% | 234–245 |
+| C- | 70–72% | 224–233 |
+| D+ | 67–69% | 214–223 |
+| D | 63–66% | 202–213 |
+| D- | 60–62% | 192–201 |
+| E | Below 60% | Below 192 |
+
+## Credit Hours
+
+| Enrollment | Hours/Week | Credit Hours |
+|------------|------------|--------------|
+| Standard | 10 hours | 3.0 credits |
+| Extended | Up to 20 hours | 6.0 credits |
+
+## Instructor Bio
+
+Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
+
+Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.
+
+Scott holds a Master's degree in Management Science & Engineering from Stanford University and a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
+
+## Getting Help
+
+The following resources are available to get help:
+
+-   Use email or Teams to contact the TAs and Professor Murff
+-   Attend office hours
+
+## Mission and Aims
+
+The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints — is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
+
+BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
+
+A BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.
+
+Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:
+
+-   **Faith in Christ** - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.
+
+-   **Integrity in Action** - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.
+
+-   **Respect for All** - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.
+
+-   **Excellence** - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.
+
+We evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.
+
+## Honor Code
+
+In keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university's expectation, and every instructor's expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 422-2847 if you have questions about those standards.
+
+## Preventing & Responding to Sexual Misconduct
+
+The health and well-being of students is of paramount importance at Brigham Young University. If you or someone you know has experienced sexual harassment (including sexual violence), there are many resources available for assistance.
+
+In accordance with Title IX of the Education Amendments of 1972, BYU prohibits unlawful sex discrimination, including sexual harassment, against any participant in its education programs or activities. The university also prohibits sexual harassment by its personnel and students. Sexual harassment occurs when
+
+a person is subjected to unwelcome sexual speech or conduct so severe, pervasive, and offensive that it effectively denies their ability to access any BYU education program or activity; any aid, benefit, or service of BYU is conditioned on a person's participation in unwelcome sexual conduct; or a person suffers sexual assault, dating violence, domestic violence, or stalking on the basis of sex. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way, including through face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Incidents of sexual harassment should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692 or 1085 WSC. Reports may also be submitted online at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day).
+
+BYU offers confidential resources for those affected by sexual harassment, including the university's Sexual Assault Survivor Advocate, as well as a number of non-confidential resources and services that may be helpful. Additional information about Title IX, the university's Sexual Harassment Policy, reporting requirements, and resources can be found at http://titleix.byu.edu or by contacting the university's Title IX Coordinator.
+
+## Student Disability
+
+Brigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (e.g., depression, anxiety), learning disorders, and attention disorders (e.g., ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact the Equal Opportunity Office at 801-422-5895, eo_manager@byu.edu, or visit https://hrs.byu.edu/equal-opportunity for help.

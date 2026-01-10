@@ -1,0 +1,65 @@
+# Working with Interns
+
+This guide helps you get the most out of your APM intern and create a valuable experience for both parties.
+
+## Your Responsibilities as a Company Partner
+
+- **Set clear goals, scope, and priorities** for the internship
+- **Provide opportunities for regular check-ins** (minimum 1x per week recommended)
+- **Act as a mentor** by offering guidance, coaching, and feedback
+- **Maintain open, responsive communication**
+- **Encourage development** of technical and product management skills
+- **Support a final evaluation** and wrap-up discussion
+
+## Setting Up for Success
+
+### Before the Internship Starts
+
+1. Define 2-3 key projects or focus areas for the intern
+2. Identify who the intern will work with day-to-day
+3. Prepare any necessary accounts, tools, or access
+4. Schedule an onboarding meeting for the first day/week
+
+### First Week
+
+1. Share context about your company, team, and product
+2. Walk through goals and expectations together
+3. Establish communication norms (preferred channels, response times)
+4. Set up recurring 1:1 meetings
+
+## Effective Mentorship
+
+### Weekly Check-ins
+
+- Review progress on current tasks
+- Discuss blockers and provide support
+- Give feedback on work quality and approach
+- Adjust priorities as needed
+
+### Feedback Best Practices
+
+- **Be specific** — point to concrete examples
+- **Be timely** — don't wait until the end to share concerns
+- **Balance** — acknowledge strengths alongside areas for growth
+- **Be actionable** — provide clear guidance on how to improve
+
+## What to Expect from Your Intern
+
+Interns are expected to:
+
+- Confirm expectations and ask clarifying questions
+- Deliver high-quality work and meet deadlines
+- Come prepared to meetings with updates and questions
+- Engage actively and be open to feedback
+- Proactively communicate progress, blockers, and availability
+- Send weekly recap emails (every Saturday)
+
+## Weekly Progress Emails
+
+Your intern will send you an end-of-week update email every Saturday (CC'ing strategy-program@byu.edu) that includes:
+
+1. What was accomplished that week
+2. Plans and priorities for the coming week
+3. Any blockers, risks, or dependencies
+
+This keeps everyone aligned and creates a record of progress.

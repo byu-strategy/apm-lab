@@ -1,0 +1,79 @@
+# Weekly Updates
+
+A key part of your internship is sending a concise end-of-week progress email. This keeps your mentor informed and demonstrates professional communication skills.
+
+## Deadline
+
+**Saturday by 11:59 PM**
+
+- First weekly email due: **January 17, 2026**
+- Final weekly email due: **April 18, 2026**
+- Total weekly emails: **14**
+
+The timing of the end-of-week email is intentional. It gives you time to reflect on accomplishments, set priorities for the coming week, flag any blocker or concerns, and ensures you stay in sync with your manager.
+
+## Recipients
+
+- **To:** Your assigned mentor/manager
+- **CC:** strategy-program@byu.edu
+
+## Email Format
+
+Your weekly update should include three sections:
+
+**1. What I Working on and Accomplished This Week [Required]**
+- List completed tasks and deliverables
+- Be specific about outcomes, not just activities
+- Include any metrics or results if applicable
+
+**2. Plans for Next Week [Required]**
+- Outline your priorities and planned tasks
+- Be realistic about what you can accomplish
+
+**3. Blockers, Risks, or Dependencies [May exclude if none]**
+- Flag anything that might impact your progress
+- Include items you need from others
+- Mention any questions or decisions needed
+
+## Example Email
+
+```bash
+Subject: Weekly Update - [Your Name] - Week of Jan 13
+
+Hi [Mentor Name],
+
+This week I worked on and accomplished the following:
+- Completed user interviews with 5 customers
+- Drafted initial feature requirements document
+- Set up analytics tracking for onboarding flow
+
+Next week, my priorities are:
+- Synthesize interview findings into insights report
+- Present recommendations to product team
+- Begin wireframing priority features
+
+There are a couple things to flag:
+- I am still Waiting on access to customer database (requested Tuesday)
+- I have a mid-term on Wednesday and will be unvailable that day for any meeting or work time
+
+See you next week,
+[Your Name]
+```
+
+## Tips for Effective Updates
+
+- **Be concise** and use bullet points to structure your email
+- **Lead with outcomes** — what got done, not just what you worked on
+- **Be honest about blockers** — early communication prevents surprises
+- **Send on time** — consistency builds trust
+
+## Weekly Rhythm
+
+Each week follows a consistent pattern:
+
+| Day | Activity |
+|-----|----------|
+| **Monday** | Start of work week; review priorities with mentor |
+| **Throughout Week** | Execute on tasks; attend meetings; communicate blockers |
+| **Friday** | Wrap up deliverables; prepare for weekly update |
+| **Saturday** | Submit weekly progress email by 11:59 PM |

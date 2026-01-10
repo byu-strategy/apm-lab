@@ -1,0 +1,53 @@
+# Getting Started
+
+Welcome to the BYU Associate Product Manager (APM) Internship Program. This guide will help you hit the ground running.
+
+## Before Your Start Date (Pre-Internship)
+
+Companies may begin onboarding early, so you might be contacted before January 7:
+
+- [ ] Connect with your assigned mentor/manager
+- [ ] Confirm your work schedule and location (remote or in-person)
+- [ ] Set up any required accounts or access
+- [ ] Get context about the team and projects
+- [ ] Discuss initial goals and expectations
+- [ ] Review the [Program Overview](../index.qmd)
+
+Early onboarding is encouraged so you can hit the ground running on January 7.
+
+## First Week Checklist
+
+- [ ] Attend onboarding meeting with your mentor
+- [ ] Clarify goals, scope, and priorities for your internship
+- [ ] Understand team communication norms (Slack, email, meetings)
+- [ ] Set up your development environment if applicable
+- [ ] Schedule recurring check-ins (minimum 1x per week recommended)
+
+## Key Dates
+
+| Milestone | Date |
+|-----------|------|
+| Official Start Date | January 7, 2026 |
+| End of Internship | April 15, 2026 |
+| Weekly Updates Due | Saturday by 11:59 PM |
+
+## Your Responsibilities
+
+As an APM intern, you are expected to:
+
+- **Confirm expectations** and ask clarifying questions as needed
+- **Deliver high-quality work** and meet deadlines
+- **Come prepared** to meetings with updates, questions, and next steps
+- **Engage actively** and be open to feedback
+- **Proactively communicate** progress, blockers, and availability
+- **Build competence** by learning and applying necessary skills
+- **Send end-of-week recap emails** to your manager/mentor with strategy-program@byu.edu in CC
+
+## What You'll Be Working On
+
+Students support teams in product management, AI product building, and product-adjacent roles, contributing to:
+
+- Product discovery and customer research
+- Feature definition and prioritization
+- Prototyping and experimentation
+- Analytics, insights, and execution support

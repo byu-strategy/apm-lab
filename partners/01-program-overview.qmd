@@ -1,0 +1,52 @@
+# Program Overview
+
+The BYU Associate Product Manager (APM) Internships are for-credit, apprenticeship-style internships designed for high-performing undergraduate students majoring in Strategic Management at Brigham Young University.
+
+Students work on real product and product-adjacent initiatives at company partners while earning academic credit toward their degree.
+
+[**Request an Intern →**](https://docs.google.com/forms/d/e/1FAIpQLSdBkPGjYG-r-lFm8OFNOX_5ObOlJk23fbLxHwEotaW6vINzDg/viewform?usp=header)
+
+## Internship Structure
+
+| Component | Details |
+|-----------|---------|
+| **Duration** | 4 months |
+| **Period** | January 7 – April 15, 2026 |
+| **Standard Hours** | 10 hours per week |
+| **Extended Option** | Up to 20 hours per week |
+| **Location** | In-person or remote, depending on company needs |
+
+## Academic Credit
+
+Students are enrolled in **STRAT 477R – Associate Product Manager Lab**
+
+| Enrollment | Hours/Week | Credit Hours |
+|------------|------------|--------------|
+| Standard | 10 hours | 3.0 credits |
+| Extended | Up to 20 hours | 6.0 credits |
+
+## Compensation
+
+- Internships are **unpaid** for hours associated with academic credit
+- Companies may optionally offer compensation for hours worked beyond the credit-bearing requirement
+- Compensation is optional and not required as part of the program
+
+## Onboarding & Start
+
+- Companies may reach out to interns directly to begin onboarding
+- Early onboarding is encouraged so interns can hit the ground running
+- The **official start date** when companies can expect the full 10 hours/week commitment is **January 7, 2026**
+
+## Optional Extensions
+
+- Companies may choose to offer paid summer extensions following the academic term
+- Extensions are optional and not required as part of the program
+
+## Roles & Contributions
+
+Students support teams in product management, AI product building, and product-adjacent roles, contributing to:
+
+- Product discovery and customer research
+- Feature definition and prioritization
+- Prototyping and experimentation
+- Analytics, insights, and execution support

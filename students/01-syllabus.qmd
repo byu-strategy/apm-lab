@@ -14,9 +14,27 @@ format:
 |                           |                            |
 |---------------------------|----------------------------|
 | **Instructor**            | Scott Murff                |
-| **Office Hours**          | 9:30–11:50 AM              |
-| **Office Hours Location** | 284 TNRB                   |
+| **Optional Co-Working Time**       | Fridays, 9:00–10:50 AM     |
+| **Office Hours**          | Fridays, 9:30–10:30 AM     |
+| **Location**              | 284 TNRB                   |
 | **LMS**                   | LearningSuite              |
+
+::: {.callout-note}
+**LearningSuite** is only used for submitting your final video reflection and reviewing your grades. All other course content and information is exclusively on this website.
+:::
+
+## Friday Class Time
+
+AIM lists the course as Fridays 9:00–10:50 AM in 284 TNRB. You're welcome to use this entire block for co-working, peer support, and office hours with Professor Murff, especially if you're working remotely and would benefit from working along side others, even on different projects. Professor Murff would generally be present from 9:30 to 10:30a.
+
+**Required Sessions (9:30–10:30 AM):**
+
+There are only two required sessions throughout the semester:
+
+- **January 16** – Kick-off and expectations
+- **April 10** – End-of-semester wrap-up
+
+All other Fridays are optional but encouraged.
 
 ## Grading
 
@@ -46,7 +64,7 @@ See [Weekly Updates](03-weekly-updates.qmd) for format and expectations.
 
 ### Mentor Feedback (140 points)
 
-At the end of the internship, your mentor will evaluate you on 5 dimensions using a 1-7 scale. Each score is multiplied by 4.
+At the end of the internship, your mentor will evaluate you on 5 dimensions using a 1-7 scale. Each score is multiplied by 4. See the [Mentor Evaluation Survey](../partners/03-evaluation.qmd) to understand exactly what your mentor will be asked.
 
 | Category | Max Points |
 |----------|------------|

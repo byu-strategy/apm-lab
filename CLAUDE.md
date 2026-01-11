@@ -20,7 +20,6 @@ The GitHub workflow renders the site and deploys to GitHub Pages. Output goes to
 ### Site Organization
 ```
 index.qmd                    # Program overview (dual-audience landing page)
-schedule.qmd                 # Key dates and deadlines
 
 students/                    # Student-facing content
   01-syllabus.qmd            # Grading, policies, BYU boilerplate

@@ -38,17 +38,18 @@ All other Fridays are optional but encouraged.
 
 ## Grading
 
-Grades are based on weekly update emails, end-of-semester mentor feedback, a video reflection, and an optional extra credit survey.
+Grades are based on weekly update emails, end-of-semester mentor feedback, a video reflection, and a company feedback survey.
 
-### Grade Components (320 points possible)
+### Grade Components (340 points possible)
 
 | Component | Points | Weight |
 |-----------|--------|--------|
-| Weekly Update Emails | 140 pts | 44% |
-| Mentor Feedback | 140 pts | 44% |
+| Weekly Update Emails | 140 pts | 41% |
+| Mentor Feedback | 140 pts | 41% |
 | Video Reflection | 40 pts | 12% |
-| **Base Total** | **320 pts** | 100% |
-| Extra Credit (Student Ratings Survey) | 10 pts | +3% |
+| Company Feedback Survey | 20 pts | 6% |
+| **Base Total** | **340 pts** | 100% |
+| Extra Credit (BYU Student Ratings) | 10 pts | +3% |
 
 ### Weekly Emails (140 points)
 
@@ -114,26 +115,45 @@ Keep it conversational—I'm looking for honest self-assessment, not polish.
 | **Growth mindset** | Concrete plan for improvement | General intentions | Minimal forward-looking | No reflection on change |
 | **Clarity** | Organized, right length, professional | Minor issues | Rambling or too brief | Unprepared or inappropriate |
 
+### Company Feedback Survey (20 points)
+
+At the end of your internship, you'll complete a brief survey providing feedback on your company and mentor experience. This helps us improve the program and gives partners actionable insights.
+
+**Due Date:** April 15, 2026 (same as internship end date)
+
+**Survey Dimensions (rate 1-7):**
+
+| Dimension | Question |
+|-----------|----------|
+| Mentorship | My mentor provided regular guidance and actionable feedback |
+| Meaningful Work | I worked on real product problems that mattered to the team |
+| Growth | I developed new PM skills during this internship |
+| Clarity | Expectations and goals for my work were clear |
+
+You'll also be able to comment on the scores for each dimension.
+
+**Scoring:** Full 20 points for completing the survey. Responses are shared with your company. 
+
 ### Extra Credit (10 points)
 
-Complete the end-of-semester student ratings survey to earn 10 extra credit points.
+Complete the BYU end-of-semester student ratings survey (about this course and instructor) to earn 10 extra credit points.
 
 ### Grading Scale
 
-| Grade | % | Points (of 320) |
+| Grade | % | Points (of 340) |
 |-------|---|-----------------|
-| A | 93–100% | 298–320 |
-| A- | 90–92% | 288–297 |
-| B+ | 87–89% | 278–287 |
-| B | 83–86% | 266–277 |
-| B- | 80–82% | 256–265 |
-| C+ | 77–79% | 246–255 |
-| C | 73–76% | 234–245 |
-| C- | 70–72% | 224–233 |
-| D+ | 67–69% | 214–223 |
-| D | 63–66% | 202–213 |
-| D- | 60–62% | 192–201 |
-| E | Below 60% | Below 192 |
+| A | 93–100% | 317–340 |
+| A- | 90–92% | 306–316 |
+| B+ | 87–89% | 296–305 |
+| B | 83–86% | 283–295 |
+| B- | 80–82% | 272–282 |
+| C+ | 77–79% | 262–271 |
+| C | 73–76% | 249–261 |
+| C- | 70–72% | 238–248 |
+| D+ | 67–69% | 228–237 |
+| D | 63–66% | 215–227 |
+| D- | 60–62% | 204–214 |
+| E | Below 60% | Below 204 |
 
 ## Credit Hours
 

@@ -1,14 +1,8 @@
 # Evaluation
 
-At the conclusion of the internship, mentors/managers complete a brief performance feedback survey. This feedback is a key input when assigning final grades.
+Mentors/managers complete a brief performance feedback survey twice during the semester, once at mid-term for developmental purposes and once at the end as an input into final grading.
 
-## End-of-Term Feedback Survey
-
-**Due Date:** April 15, 2026
-
-**Survey Link:** [Complete the Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header)
-
-## What the Survey Covers
+## Feedback Survey
 
 The feedback survey asks you to evaluate your intern on:
 
@@ -18,34 +12,66 @@ The feedback survey asks you to evaluate your intern on:
 - **Technical Competency** — Developing knowledge and skills to complete work effectively
 - **Contribution** — Consistently delivering high-quality work output
 
-## Sharing Feedback
+| Survey | Due Date | Purpose | Link |
+|--------|----------|---------|------|
+| Mid-term | February 28, 2026 | Developmental feedback only (no grade impact) | [Complete Mid-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0W4ZOCw63lOU8IWSr3DpuBIe-OeaPOgT_u-0uGeOABpMXBw/viewform?usp=header) |
+| End-of-term | April 15, 2026 | Final evaluation for grading | [Complete End-of-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header) |
 
-- Feedback is shared with the intern
-- We encourage you to **discuss feedback verbally** with your intern as part of a wrap-up conversation
-- This conversation is a valuable learning opportunity for the student
+## Mid-Term Feedback
 
-## Wrap-Up Conversation Tips
+The mid-term [survey](https://docs.google.com/forms/d/e/1FAIpQLSe0W4ZOCw63lOU8IWSr3DpuBIe-OeaPOgT_u-0uGeOABpMXBw/viewform?usp=header) gives interns a chance to understand where they stand halfway through the internship. This feedback:
 
-Consider discussing:
+- Has **no impact on their grade**
+- Is purely developmental
+- Helps interns course-correct if needed before the final evaluation
+- Creates a natural checkpoint for mentoring conversations
+
+After completing the mid-term survey, **you should have a live conversation with your intern** to discuss the feedback. This is an important part of the intern's development. You should:
+
+- Schedule a meeting within a week of submitting your mid-term feedback
+- Discuss your feedback and areas of strength and improvement
+
+This conversation helps interns understand expectations and adjust before the final evaluation
+
+### Mid-Term Conversation Guide
+
+::: {.callout-tip}
+**Make it a two-way conversation.** In addition to sharing your feedback, ask your intern for their feedback on their experience so far and anything you should consider adjusting.
+:::
+
+The mid-term conversation should be supportive and forward-looking focusing on helping your intern succeed.
+
+**Suggested structure:**
+
+1. **Strengths** — What's going well? What should they keep doing?
+2. **Opportunities for growth** — Where can they grow before the end of term?
+3. **Support offered** — What can you do to help them improve?
+4. **Goals check-in** — Are they on track with internship objectives?
+5. **Ask for feedback** — How can you better support them? What's working well?
+
+**Tips for a productive conversation:**
+
+- Be specific with examples rather than general statements
+- Focus on behaviors and outcomes, not personality
+- Ask questions and listen, letting them share their perspective
+- End with clear, actionable next steps
+- Keep the tone developmental
+
+## End-of-Term Feedback
+
+The end-of-term [survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header) is your final evaluation and an important input into the intern's grade. This feedback is shared with the intern, so we encourage you to **discuss it verbally** as part of a wrap-up conversation. This conversation is a valuable learning opportunity for the student.
+
+### End-of-Term Wrap-up Conversation Guide
+
+The end-of-term conversation should be reflective and forward-looking, helping your intern understand their performance and prepare for their career.
+
+**Suggested topics:**
 
 1. **Highlights** — What did they do well? What were you impressed by?
 2. **Growth areas** — Where could they improve? What skills should they develop?
 3. **Career advice** — What would help them succeed in product management?
-4. **Next steps** — Are there opportunities to continue working together?
-
-## Timeline
-
-| Milestone | Date |
-|-----------|------|
-| Internship ends | April 15, 2026 |
-| Feedback survey due | April 15, 2026 |
-| Grades submitted | April 22, 2026 |
-
-## Post-Internship (After April 15)
-
-- Complete the feedback survey by April 15
-- Have a wrap-up conversation with your intern
-- Optional: Discuss summer extension opportunities if interested
+4. **Next steps** — Are there opportunities to continue working together over the summer or in the future?
+5. **Ask for their feedback** — What could you do to improve as a mentor? What worked well?
 
 ## Questions?
 
@@ -53,4 +79,3 @@ Contact the Program Director:
 
 **Scott Murff**
 scott.murff@byu.edu
-650-309-6495

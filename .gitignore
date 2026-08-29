@@ -6,3 +6,8 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Student data — lives in OneDrive "3. Teaching/_student-data/apm-lab", never in git
+grading/
+*.csv
+ExportClassRoll*

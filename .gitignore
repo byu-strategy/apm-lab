@@ -11,3 +11,7 @@
 grading/
 *.csv
 ExportClassRoll*
+
+# Symlinks into OneDrive (student data, heavy materials) - never in git
+_private
+_materials

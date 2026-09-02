@@ -15,7 +15,7 @@ The timing of the end-of-week email is intentional. It gives you time to reflect
 ## Recipients
 
 - **To:** Your assigned mentor/manager
-- **CC:** strategy-program@byu.edu
+- **CC:** craig.clawson@byu.edu
 
 ## Email Format
 

@@ -52,8 +52,9 @@ Key settings in `_quarto.yml`:
 
 ## Program Context
 
-- **Duration**: 4 months (January 7 – April 15, 2026)
+- **Duration**: 4 months (September 2 – December 11, 2026)
 - **Hours**: 10-20 hours/week
 - **Credit**: 3.0-6.0 credit hours
 - **Key deliverable**: Weekly progress emails (due Saturday 11:59 PM)
 - **Evaluation**: Mentor feedback survey at end of term
+- **Instructor of record**: Craig Clawson (Fall 2026, section 001, Fridays 9:00–11:50 AM, TNRB 1216)

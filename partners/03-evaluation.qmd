@@ -14,8 +14,8 @@ The feedback survey asks you to evaluate your intern on:
 
 | Survey | Due Date | Purpose | Link |
 |--------|----------|---------|------|
-| Mid-term | February 28, 2026 | Developmental feedback only (no grade impact) | [Complete Mid-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0W4ZOCw63lOU8IWSr3DpuBIe-OeaPOgT_u-0uGeOABpMXBw/viewform?usp=header) |
-| End-of-term | April 15, 2026 | Final evaluation for grading | [Complete End-of-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header) |
+| Mid-term | October 23, 2026 | Developmental feedback only (no grade impact) | [Complete Mid-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0W4ZOCw63lOU8IWSr3DpuBIe-OeaPOgT_u-0uGeOABpMXBw/viewform?usp=header) |
+| End-of-term | December 11, 2026 | Final evaluation for grading | [Complete End-of-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header) |
 
 ## Mid-Term Feedback
 
@@ -81,5 +81,5 @@ At the end of the semester, we also ask interns to complete a feedback survey ab
 
 Contact the Program Director:
 
-**Scott Murff**
-scott.murff@byu.edu
+**Craig Clawson**
+craig.clawson@byu.edu

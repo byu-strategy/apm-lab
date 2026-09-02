@@ -11,7 +11,7 @@ Students in this program typically complete [STRAT 490R - Creating Digital Produ
 | | |
 |---|---|
 | **Duration** | 4 months |
-| **Period** | January 7 – April 15, 2026 |
+| **Period** | September 2 – December 11, 2026 |
 | **Hours** | 10-20 hours per week |
 | **Credit** | 3.0-6.0 credit hours |
 | **Location** | In-person or remote |
@@ -39,18 +39,18 @@ Information for companies hosting APM interns:
 
 | Milestone | Date |
 |-----------|------|
-| Internship Begins | January 7, 2026 |
+| Internship Begins | September 2, 2026 |
 | Student's Weekly Email Update Due | Saturday by 11:59 PM |
-| Internship Ends | April 15, 2026 |
-| Mentor Feedback Due | April 15, 2026 |
-| Video Reflection Due | April 22, 2026 |
+| Internship Ends | December 11, 2026 |
+| Mentor Feedback Due | December 11, 2026 |
+| Video Reflection Due | December 17, 2026 |
 
 ## Contact
 
-**Scott Murff**
+**Craig Clawson**
 
 Program Director, Strategic Management
 
 Brigham Young University
 
-scott.murff@byu.edu
+craig.clawson@byu.edu

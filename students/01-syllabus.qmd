@@ -1,7 +1,7 @@
 ---
 title: "Syllabus"
-author: "Scott Murff"
-date: "1/6/2026"
+author: "Craig Clawson"
+date: "9/2/2026"
 format:
   html: default
   pdf: default
@@ -9,14 +9,14 @@ format:
 
 # Syllabus
 
-*WINTER 2026*
+*FALL 2026*
 
 |                           |                            |
 |---------------------------|----------------------------|
-| **Instructor**            | Scott Murff                |
-| **Optional Co-Working Time**       | Fridays, 9:00–10:50 AM     |
-| **Office Hours**          | Fridays, 9:30–10:30 AM     |
-| **Location**              | 284 TNRB                   |
+| **Instructor**            | Craig Clawson              |
+| **Optional Co-Working Time**       | Fridays, 9:00–11:50 AM     |
+| **Office Hours**          | Fridays, 10:30–11:50 AM    |
+| **Location**              | TNRB 1216                  |
 | **LMS**                   | LearningSuite              |
 
 ::: {.callout-note}
@@ -25,14 +25,14 @@ format:
 
 ## Friday Class Time
 
-AIM lists the course as Fridays 9:00–10:50 AM in 284 TNRB. You're welcome to use this entire block for co-working, peer support, and office hours with Professor Murff, especially if you're working remotely and would benefit from working along side others, even on different projects. Professor Murff will generally be present from 9:30 to 10:30a.
+AIM lists the course as Fridays 9:00–11:50 AM in TNRB 1216. You're welcome to use this entire block for co-working, peer support, and office hours with Professor Clawson, especially if you're working remotely and would benefit from working along side others, even on different projects.
 
-**Required Sessions (9:30–10:30 AM):**
+**Required Sessions (9:00–10:30 AM):**
 
 There are only two required sessions throughout the semester:
 
-- **January 16** – Kick-off and expectations
-- **April 10** – End-of-semester wrap-up
+- **September 11** – Kick-off and expectations
+- **December 4** – End-of-semester wrap-up
 
 All other Fridays are optional but encouraged.
 
@@ -90,7 +90,7 @@ At the end of the internship, your mentor will evaluate you on 5 dimensions usin
 
 After receiving your mentor's feedback, you will record a 2-5 minute video reflection. This is your opportunity to demonstrate self-awareness, engage thoughtfully with feedback, and show a growth mindset.
 
-**Due Date:** April 22, 2026
+**Due Date:** December 17, 2026
 
 **Submission:** Upload to YouTube (unlisted) or Loom and submit the link via Learning Suite.
 
@@ -119,7 +119,7 @@ Keep it conversational—I'm looking for honest self-assessment, not polish.
 
 At the end of your internship, you'll complete a brief survey providing feedback on your company and mentor experience. This helps us improve the program and gives partners actionable insights.
 
-**Due Date:** April 15, 2026 (same as internship end date)
+**Due Date:** December 11, 2026 (same as internship end date)
 
 **Survey Dimensions (rate 1-7):**
 
@@ -177,17 +177,17 @@ The following scenarios assume you complete all weekly emails on time, submit an
 
 ## Instructor Bio
 
-Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.
+Craig Clawson is director of NVIDIA's Deep Learning Institute, which offers certified instruction to help individuals and organizations learn AI and accelerated computing. Craig has focused his career on developing learning solutions for professionals.
 
-Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.
+Prior to NVIDIA, he served as Dean of the Jack Welch Management Institute, where he led program design and curriculum. Before that he served as Managing Director of Duke Corporate Education, delivering custom learning experiences for clients worldwide.
 
-Scott holds a Master's degree in Management Science & Engineering from Stanford University and a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
+Craig holds a PhD and MBA from the University of Chicago Booth School of Business. He is a true believer in the power of education to change individuals, organizations and improve society. Outside of work Craig enjoys spending time with his family, hiking and skiing.
 
 ## Getting Help
 
 The following resources are available to get help:
 
--   Use email or Teams to contact the TAs and Professor Murff
+-   Use email or Teams to contact the TAs and Professor Clawson
 -   Attend office hours
 
 ## Mission and Aims

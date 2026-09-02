@@ -4,7 +4,7 @@ Welcome to the BYU Associate Product Manager (APM) Internship Program. This guid
 
 ## Before Your Start Date (Pre-Internship)
 
-Companies may begin onboarding early, so you might be contacted before January 7:
+Companies may begin onboarding early, so you might be contacted before September 2:
 
 - [ ] Connect with your assigned mentor/manager
 - [ ] Confirm your work schedule and location (remote or in-person)
@@ -13,7 +13,7 @@ Companies may begin onboarding early, so you might be contacted before January 7
 - [ ] Discuss initial goals and expectations
 - [ ] Review the [Program Overview](../index.qmd)
 
-Early onboarding is encouraged so you can hit the ground running on January 7.
+Early onboarding is encouraged so you can hit the ground running on September 2.
 
 ## First Week Checklist
 
@@ -27,8 +27,8 @@ Early onboarding is encouraged so you can hit the ground running on January 7.
 
 | Milestone | Date |
 |-----------|------|
-| Official Start Date | January 7, 2026 |
-| End of Internship | April 15, 2026 |
+| Official Start Date | September 2, 2026 |
+| End of Internship | December 11, 2026 |
 | Weekly Updates Due | Saturday by 11:59 PM |
 
 ## Your Responsibilities

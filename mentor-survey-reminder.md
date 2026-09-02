@@ -1,4 +1,4 @@
-**Subject:** Action Needed: End-of-Term Intern Evaluation Due April 15
+**Subject:** Action Needed: End-of-Term Intern Evaluation Due December 11
 
 Hi,
 
@@ -6,7 +6,7 @@ Thank you for mentoring a BYU APM intern this semester. As we wrap up the semest
 
 **Survey link:** [Complete End-of-Term Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUlDUhDI8FNRMLk1YGNuAO6h8sFEfUYRTbplVsmFs_Nab81Q/viewform?usp=header)
 
-**Due date:** April 15, 2026
+**Due date:** December 11, 2026
 
 The survey asks you to rate your intern on five dimensions (timeliness, communication, agency, technical competency, and contribution) using a 1–7 scale, along with any written comments. It should take about 5–10 minutes.
 
@@ -19,7 +19,6 @@ A few things to keep in mind:
 Thank you again for investing in our students this semester. If you have any questions, don't hesitate to reach out.
 
 Best,
-Scott Murff
-Associate Teaching Professor of Strategy
+Craig Clawson
 BYU Marriott School of Business
-scott.murff@byu.edu
+craig.clawson@byu.edu

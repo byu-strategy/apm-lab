@@ -6,8 +6,8 @@ project:
 
 book:
   title: "STRAT 477R – Associate Product Manager Lab"
-  author: "Scott Murff"
-  date: "1/7/2026"
+  author: "Craig Clawson"
+  date: "9/2/2026"
   favicon: images/favicon.svg
   chapters:
     - index.qmd

@@ -20,5 +20,6 @@ Thank you again for investing in our students this semester. If you have any que
 
 Best,
 Craig Clawson
+Adjunct Faculty, Strategic Management
 BYU Marriott School of Business
 craig.clawson@byu.edu

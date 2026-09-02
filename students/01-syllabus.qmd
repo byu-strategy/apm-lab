@@ -15,7 +15,7 @@ format:
 |---------------------------|----------------------------|
 | **Instructor**            | Craig Clawson              |
 | **Optional Co-Working Time**       | Fridays, 9:00–11:50 AM     |
-| **Office Hours**          | Fridays, 10:30–11:50 AM    |
+| **Office Hours**          | By appointment             |
 | **Location**              | TNRB 1216                  |
 | **LMS**                   | LearningSuite              |
 
@@ -25,7 +25,7 @@ format:
 
 ## Friday Class Time
 
-AIM lists the course as Fridays 9:00–11:50 AM in TNRB 1216. You're welcome to use this entire block for co-working, peer support, and office hours with Professor Clawson, especially if you're working remotely and would benefit from working along side others, even on different projects.
+AIM lists the course as Fridays 9:00–11:50 AM in TNRB 1216. You're welcome to use this entire block for co-working and peer support, especially if you're working remotely and would benefit from working along side others, even on different projects. Office hours with Professor Clawson are by appointment.
 
 **Required Sessions (9:00–10:30 AM):**
 

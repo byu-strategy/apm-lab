@@ -29,9 +29,10 @@ AIM lists the course as Fridays 9:00–11:50 AM in TNRB 1216. You're welcome to 
 
 **Required Sessions (9:00–10:30 AM):**
 
-There are only two required sessions throughout the semester:
+There are only three required sessions throughout the semester:
 
-- **September 11** – Kick-off and expectations
+- **September 18** – Kick-off and expectations
+- **October 30** – Midpoint check-in
 - **December 4** – End-of-semester wrap-up
 
 All other Fridays are optional but encouraged.
@@ -53,12 +54,12 @@ Grades are based on weekly update emails, end-of-semester mentor feedback, a vid
 
 ### Weekly Emails (140 points)
 
-14 emails × 10 points each
+12 emails × 11.67 points each
 
 | Status | Points |
 |--------|--------|
-| On time (Saturday by 11:59 PM) | 10 pts |
-| Late (by Monday 12:00 PM noon) | 5 pts |
+| On time (Saturday by 11:59 PM) | 11.67 pts |
+| Late (by Monday 12:00 PM noon) | 5.83 pts |
 | After Monday noon | 0 pts |
 
 See [Weekly Updates](03-weekly-updates.qmd) for format and expectations.
